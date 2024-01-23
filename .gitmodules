@@ -1,0 +1,3 @@
+[submodule "linear-algebra"]
+	path = linear-algebra
+	url = git@github.com:AloneOz22/linear-algebra.git
